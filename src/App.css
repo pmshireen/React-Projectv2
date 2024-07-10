@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.question-card {
+  background-color: gray;
+  margin : 0 auto;
+  /* width: 350px; */
+  width: 70%;
+  padding: 16px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow:black , blue;
+  cursor:pointer;
+}
+ul{
+  list-style: none;
+}
+li{
+  background-color: darkgrey;
+  padding: 16px;
+  border: 3px solid white;
+  border-radius: 20px;
+  margin-top:8px;
+}
+.text{
+  font-size: 20px;
+  color:rgb(49, 3, 92); 
+}
+.final-results{
+  margin : 0 auto;
+  background-color: gray;
+
+  /* width: 350px; */
+  width: 50%;
+  padding: 16px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow:black , blue;
+}
+button{
+background-color: rgb(160, 3, 3); /* Green */
+border: none;
+color: white;
+padding: 16px 24px;
+margin-left: 24px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+font-weight: bold;
+cursor: pointer;
+border-radius: 24px;
+}
